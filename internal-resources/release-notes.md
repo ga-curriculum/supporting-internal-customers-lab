@@ -1,11 +1,11 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Supporting Internal Customers Lab</span>
   <span class="subhead">Release Notes</span>
 </h1>
 
-## Version 1.0 - Updates from legacy content
+## Version 1.0 - Creation of New Module
 
-This release modularizes the legacy [tktk previous lab name] lab and provides some other minor updates detailed below.
+This release creates Identifying Ports and Protocols of Software as a new module for our curriculum.
 
 ### Release details
 

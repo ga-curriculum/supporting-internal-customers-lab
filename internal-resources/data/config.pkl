@@ -11,25 +11,24 @@ import "microlessons.pkl" as mls
 // pkl eval -f json ./internal-resources/data/config.pkl -o %{moduleDir}/%{moduleName}.%{outputFormat}
 
 repo {
-  // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Headline]"
-  // This must match the repo name as it appears on GitHub exactly
-  name = "tktk-module-name"
+  friendlyName = "Supporting Internal Customers Lab"
+  name = "supporting-internal-customers-lab"
   type = "Lab"
 }
 
 courses {
   new {
-    // Do not remove this fallback course!
+    name = "itb"
+    microlessons {
+      mls.setup
+      mls.supportingInternalCustomersLab
+    }
+  }
+  new {
     name = "fallback"
     microlessons {
-      // Add microlessons here, in the order they should be delivered
       mls.setup
-      mls.exercise
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.levelUp) {
-        type = "Level Up content"
-      }
+      mls.supportingInternalCustomersLab
     }
   }
 }

@@ -1,58 +1,33 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Supporting Internal Customers Lab</span>
   <span class="subhead">Setup</span>
 </h1>
 
 ## Setup
 
-tktk The below is a generic starting point for lab setup. You may need to make adjustments to this.
+### Overview
 
-Open your Terminal application and navigate to your <code class="filepath">~/code/ga/labs</code> directory:
+In this lab, you will use a Trello Board configured to simulate a helpdesk environment. The board comes complete with internal customer support tickets you must resolve using a structured process while documenting your solution.
 
-```bash
-cd ~/code/ga/labs
-```
+### Accessing the Trello Board
 
-### Fork and clone the starter code
+1. **Sign In to Trello**:
+    - You should already have a free Trello Account; if you don't you can create one [here](https://id.atlassian.com/signup?application=trello).
 
-tktk Use the below instructions if students will need starter code from a separate module to complete the lab exercise. If they do not, delete this section and all of its contents.
+2. **Open the Trello Board Link**:
+    - [Click here](https://trello.com/b/f1QzFk8a) to access the Lab Trello.
+    - **Please Note**: The Lab Trello board will be in ***view-only*** mode.
 
-Fork the [[tktk Headline] Starter Code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name-starter-code) repository.
+3. **Make a Copy of the Board**:
+    - Go to the upper-right corner of the board and click on **"More"**.
+    - Select the **"Copy Board"** option from the dropdown menu.
+    - Rename the board with your name and lab title.
+      - **Example**: ***Jane Doe - Supporting Internal Customers Lab***.
 
-Clone a copy of your remote repo locally by using the `git clone` command:
+**TODO: Add visuals (screenshots) to this page**
 
-```bash
-git clone https://git.generalassemb.ly/<your-username>/tktk-module-name-starter-code.git tktk-module-name
-```
+### Final Check Before You Begin
 
-Replace `<your-username>` (including the `<` and `>`) with your General Assembly GitHub Enterprise username before you run this command.
+At this point, you should have your own copy of the Lab Trello, which you've renamed using the recommended format, and you should be able to interact with the ticket cards. If, for some reason, you were unable to complete any of these steps or if you have any other questions regarding this setup, please contact your instructor.
 
-### Create and clone a GitHub repo
-
-tktk Use the below instructions if students do not need starter code from a separate module to complete the lab exercise. If they do, delete this section and all of its contents.
-
-Make a new repository on [GitHub](https://github.com/) named `tktk-module-name`.
-
-Clone a copy of your remote repo locally by using the `git clone` command:
-
-```bash
-git clone https://github.com/<your-username>/tktk-module-name.git
-```
-
-Replace `<your-username>` (including the `<` and `>`) with your GitHub username before you run this command.
-
-### Launch in VS Code
-
-Next, `cd` into the cloned directory, <code class="filepath">tktk-module-name</code>:
-
-```bash
-cd tktk-module-name
-```
-
-Open the contents of the directory in VS Code:
-
-```bash
-code .
-```
-
-tktk Are there more lab setup steps? Don't forget to add them here.
+Assuming your setup was successful, you can proceed to the exercise portion of the lab to better understand this assignment.
