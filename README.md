@@ -5,23 +5,28 @@
 
 ## About
 
-In this lab, you will practice managing, resolving, or escalating support tickets for internal customers in a simulated helpdesk environment. This assignment will also allow you to practice your professional communication and technical writing skills within the context of an IT Support Professional.
+In this lab, you will practice managing, resolving, or escalating support tickets for internal customers in a simulated help desk environment. This assignment will also allow you to practice your professional communication and technical writing skills within the context of an IT Support Professional.
 
 ## Content
 
 - [Setup](./setup/README.md)
-- [Supporting Internal Customers Lab](./supporting-internal-customers-lab/README.md)
+- [Exercise](./exercise/README.md)
+
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
 
 ## Internal
 
 ### Prerequisites
 
-- Troubleshooting Methodology.
-- Apply Troubleshooting Methodology.
-- Troubleshoot Power and Disk Issues.
-- Troubleshooting System Issues.
-- Troubleshoot System and Display Issues.
-- Troubleshooting Example: Video Issues.
+- Troubleshooting Methodology
+- Apply Troubleshooting Methodology
+- Troubleshoot Power and Disk Issues
+- Troubleshooting System Issues
+- Troubleshoot System and Display Issues
+- Troubleshooting Example: Video Issues
 
 ### Time to complete
 

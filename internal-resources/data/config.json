@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Supporting Internal Customers Lab",
-          "dirName": "supporting-internal-customers-lab",
+          "friendlyName": "Exercise",
+          "dirName": "exercise",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -79,8 +79,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Supporting Internal Customers Lab",
-          "dirName": "supporting-internal-customers-lab",
+          "friendlyName": "Exercise",
+          "dirName": "exercise",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

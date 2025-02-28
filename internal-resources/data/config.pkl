@@ -21,14 +21,14 @@ courses {
     name = "itb"
     microlessons {
       mls.setup
-      mls.supportingInternalCustomersLab
+      mls.exercise
     }
   }
   new {
     name = "fallback"
     microlessons {
       mls.setup
-      mls.supportingInternalCustomersLab
+      mls.exercise
     }
   }
 }

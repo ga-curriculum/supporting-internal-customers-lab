@@ -9,9 +9,9 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-supportingInternalCustomersLab = new Template.Microlesson {
-  friendlyName = "Supporting Internal Customers Lab"
-  dirName = "supporting-internal-customers-lab"
+exercise = new Template.Microlesson {
+  friendlyName = "Exercise"
+  dirName = "exercise"
   type = "Content"
   videoUrl = ""
 }
