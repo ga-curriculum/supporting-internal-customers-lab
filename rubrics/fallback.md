@@ -7,8 +7,6 @@
 
 The following requirements describe the content that should be present in the submitted **Supporting Internal Customers Lab** Trello board.
 
-### Part 1 - Setup a VM - Ubuntu
-
 | Criteria                                                                                                                                                                                                                                                                      | Points |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | Marked at least six tickets complete by moving the ticket cards from the **New Tickets** list to the **Completed**/**Requires Escalation** list.                                                                                                                              | 30     |
