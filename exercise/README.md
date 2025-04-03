@@ -3,6 +3,8 @@
   <span class="subhead">Exercise</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to resolve and escalate technical tickets in a help desk environment.
+
 ## Overview
 
 This lab aims to simulate a real-world help desk environment using an internal customer support ticketing system to manage and resolve issues. You will document your resolution process systematically following the procedure outlined below.
